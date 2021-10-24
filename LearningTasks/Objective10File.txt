@@ -1,0 +1,2 @@
+This is a simple way to save data
+one line at a time
